@@ -1,0 +1,12 @@
+# Python'un oluşturduğu geçici dosyalar
+__pycache__/
+*.py[cod]
+
+# VS Code özel ayarları
+.vscode/
+
+# Eğer sanal ortam kullanıyorsan (genelde venv adında olur)
+venv/
+
+# Büyük boyutlu gereksiz dosyalar
+*.log
